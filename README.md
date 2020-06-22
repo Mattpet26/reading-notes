@@ -27,5 +27,5 @@ Absolutely! | 10/10
 
 ## Make sure to check out [my profile](https://github.com/Mattpet26)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png | width=40)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
