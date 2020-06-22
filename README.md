@@ -27,5 +27,5 @@ Absolutely! | 10/10
 
 ## Make sure to check out [my profile](https://github.com/Mattpet26)
 
-![Coding](https://unsplash.com/photos/OqtafYT5kTw)
+![Coding](https://unsplash.com/photos/OqtafYT5kTw.png)
 
