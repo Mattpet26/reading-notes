@@ -13,5 +13,8 @@
   - _Don't expect to be a pro your first time_
   
 3. **Here is a picture of my wedding ring!**
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+
+
+
+
+
