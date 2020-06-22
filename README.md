@@ -21,4 +21,4 @@ Absolutely! | 10/10
 
 
 
-[logo]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fskipahsrealm.com%2Fmanlybands-making-marriage-great%2F&psig=AOvVaw1o2rCZ2eWIozhlOn8A8BqQ&ust=1592938654704000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj5wNOMluoCFQAAAAAdAAAAABAI
+[logo]: (thispc/desktop/4.png)
