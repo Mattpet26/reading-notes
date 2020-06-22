@@ -19,6 +19,7 @@ Does CodeFellows help with coding? | How would you rate your first day?
 -----------------------------------|----------------------------------
 Absolutely! | 10/10
 
-
-
-[logo]: (thispc/desktop/4.png)
+4. **How is the first day going?**
+[x] Slowly understanding how github works
+[] Scared and confused.
+[x] Hungry
