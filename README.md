@@ -25,4 +25,4 @@ Absolutely! | 10/10
 - [ ] Scared and confused.
 - [x] Hungry
 
-## Make sure to check out [my profile] (https://github.com/Mattpet26)
+## Make sure to check out [my profile](https://github.com/Mattpet26)
