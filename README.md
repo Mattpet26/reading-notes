@@ -17,7 +17,8 @@
 
 Does CodeFellows help with coding? | How would you rate your first day?
 -----------------------------------|----------------------------------
-Absolutely! | 10/10
+Student A | Absolutely! | 10/10
+Student B | Definitely. | 9/10
 
 ### **How is the first day going?**
 
