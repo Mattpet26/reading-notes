@@ -16,7 +16,7 @@
 - Be careful with how you type everything out!
 
 Does CodeFellows help with coding? | How would you rate your first day?
------------------------------------|----------------------------------
+-----------------------------------|----------------------------------|--------------
 Student A | Absolutely! | 10/10
 Student B | Definitely. | 9/10
 
