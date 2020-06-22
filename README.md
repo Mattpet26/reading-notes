@@ -3,6 +3,7 @@ Hello, I'm Matthew. Here is my code on growth mindset and day 1 information.
 # My Learning Journal
 
 1. **Growth Mindset**
+   Growth mindset is a mindset that strives to succeed and improve.
    _It is important to improve from feedback_
    _I am inspired by other's success_
 2. **How do I stay in a growth mindset?**
