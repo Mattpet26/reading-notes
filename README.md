@@ -12,11 +12,4 @@
   - _Be ready to fail and eager to try again_
   - _Don't expect to be a pro your first time_
   
-3.
-
-
-## New Changes to my readme file.
-
-And here is some more info
-
-and starwars is AWESOME!
+https://www.google.com/search?q=pictures+of+pianos&tbm=isch&hl=en&chips=q:pictures+of+pianos&rlz=1C1CHBF_enUS837US837&hl=en&ved=2ahUKEwj-rISJiZbqAhWGhZ4KHV3CC7sQ3VZ6BAgBEBY&biw=1349&bih=657#imgrc=FgZisM50EkOpgM - automatic
