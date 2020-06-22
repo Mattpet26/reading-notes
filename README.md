@@ -13,9 +13,9 @@
   - _Don't expect to be a pro your first time_
   
 3. **Markdown is a great help with coding!**
-Does CodeFellows help with coding? | 
+Does CodeFellows help with coding? | How would you rate your first day?
 -----------------------------------|
-Absolutely! |
+Absolutely! | 10/10
 
 
 
