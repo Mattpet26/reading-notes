@@ -14,7 +14,7 @@
   
 3. **Markdown is a great help with coding!**
 Does CodeFellows help with coding? | How would you rate your first day?
------------------------------------|
+-----------------------------------|----------------------------------
 Absolutely! | 10/10
 
 
