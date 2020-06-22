@@ -4,11 +4,9 @@ Hello, I'm Matthew. Here is my code on growth mindset and day 1 information.
 
 1. **Growth Mindset**
   - _It is important to improve from feedback_
-  - 
-  - 
-2. **Fixed Mindset**
-  - *I avoid challenges*
-  - 
+  - _I am inspired by others success_
+  
+
 
 ## New Changes to my readme file.
 
