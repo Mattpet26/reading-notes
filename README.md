@@ -7,7 +7,7 @@ Hello, I'm Matthew. Here is my code on growth mindset and day 1 information.
   - 
   - 
 2. **Fixed Mindset**
-  - *I avoid challenges
+  - *I avoid challenges*
   - 
 
 ## New Changes to my readme file.
