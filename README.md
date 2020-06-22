@@ -21,6 +21,6 @@ Absolutely! | 10/10
 
 4. **How is the first day going?**
 
-[x] Slowly understanding how github works
-[ ] Scared and confused.
-[x] Hungry
+- [x] Slowly understanding how github works
+- [ ] Scared and confused.
+- [x] Hungry
