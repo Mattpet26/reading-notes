@@ -12,8 +12,10 @@
   - _Be ready to fail and eager to try again_
   - _Don't expect to be a pro your first time_
   
-3. **Here is a picture of my wedding ring!**
-
+3. **Markdown is a great help with coding!**
+Does CodeFellows help with coding? | 
+-----------------------------------|
+Absolutely! |
 
 
 
