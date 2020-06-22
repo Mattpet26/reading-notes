@@ -24,3 +24,5 @@ Absolutely! | 10/10
 - [x] Slowly understanding how github works
 - [ ] Scared and confused.
 - [x] Hungry
+
+## Make sure to check out my profile (https://github.com/Mattpet26)
