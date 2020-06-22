@@ -14,7 +14,6 @@
   
 3. **Markdown is a great help with coding!**
 - Be careful with how you type everything out!
-- Use https://www.google.com/ to help with new things.
 
 Does CodeFellows help with coding? | How would you rate your first day?
 -----------------------------------|----------------------------------
@@ -22,4 +21,4 @@ Absolutely! | 10/10
 
 
 
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fskipahsrealm.com%2Fmanlybands-making-marriage-great%2F&psig=AOvVaw1o2rCZ2eWIozhlOn8A8BqQ&ust=1592938654704000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj5wNOMluoCFQAAAAAdAAAAABAI
