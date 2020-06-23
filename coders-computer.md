@@ -25,3 +25,6 @@
 - cd - change the directory you are in.
 - ls - list the contents of current file open.
 -mkdir - Make a new directory.
+
+
+Back to main - [Click me](class-notes.md)
