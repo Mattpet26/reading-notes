@@ -1,4 +1,4 @@
-### Hello, I'm Matthew. Here is my code on growth mindset and day 1 information.
+### Hello, I'm Matthew. Here is my code on the first week of CodeFellows!
 
 # My Learning Journal
 
