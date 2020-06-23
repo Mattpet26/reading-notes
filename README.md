@@ -26,12 +26,12 @@ Timmy | Definitely. | 9/10
 - [ ] Scared and confused.
 - [x] Hungry
 
-## Class notes
+## Table of contents, week 1
   1. Coders Computer - [Click here](coders-computer.md)
-  1.
-  1.
-  1.
-  1.
+  1. Class 2  
+  1. Class 3
+  1. Class 4
+  1. Class 5
 
 
 
