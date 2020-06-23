@@ -27,4 +27,4 @@
 -mkdir - Make a new directory.
 
 
-Back to main - [Click me](readme.md)
+Back to main - [Click me](README.md)
