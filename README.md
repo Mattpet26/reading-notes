@@ -10,7 +10,7 @@ A-C-P. add, commit, push.
   1. Growth Mindset - [Click here](growthmindset.md)
   1. Coders Computer - [Click here](coders-computer.md)
   1. Reflections - [Click here](reflections.md)
-
+  1. Reading Notes - [Click here](reading-notes.md)
 ## What do I need to work on?
 
 - How do I upload an image? 
