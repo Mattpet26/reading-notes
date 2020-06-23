@@ -27,4 +27,4 @@
 -mkdir - Make a new directory.
 
 
-Back to main - [Click me](class-notes.md)
+Back to main - [Click me](readme.md)
