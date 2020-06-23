@@ -26,6 +26,15 @@ Timmy | Definitely. | 9/10
 - [ ] Scared and confused.
 - [x] Hungry
 
+## Class notes
+1.
+1.
+1.
+1.
+1.
+
+
+
 ## Make sure to check out [my profile](https://github.com/Mattpet26)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
