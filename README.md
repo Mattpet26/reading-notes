@@ -27,7 +27,7 @@ Timmy | Definitely. | 9/10
 - [x] Hungry
 
 ## Class notes
-  1. 
+  1. Coders Computer - [Click here](coders-computer.md)
   1.
   1.
   1.
