@@ -27,11 +27,11 @@ Timmy | Definitely. | 9/10
 - [x] Hungry
 
 ## Class notes
-1. 
-1.
-1.
-1.
-1.
+  1. 
+  1.
+  1.
+  1.
+  1.
 
 
 
