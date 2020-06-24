@@ -15,3 +15,5 @@ Commands | What does this command do?
 touch| Adds a new directory.
 ls| 
 cd| Change directory.
+
+Go back to main [Click me](README.md)
