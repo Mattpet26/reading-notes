@@ -2,9 +2,9 @@
 
 # My Learning Journal
   
-I finally learned how to set up my Git and upload to Github successfully! Computer problems can definitely shut you down, but keep pushing and asking questions.
+- I think my webpage is having problems? I keep running into issues with not being able to view my links and work. However everyone else can?
+- The mighty 404 error strikes again.
 
-A-C-P. add, commit, push.
 
 ## Table of contents, week 1
   1. Growth Mindset - [Click here](growthmindset.md)
@@ -12,10 +12,8 @@ A-C-P. add, commit, push.
   1. Reflections - [Click here](reflections.md)
   1. Reading Notes - [Click here](reading-notes.md)
   1. Designing with CSS - [Click here](cssdesign.md)
-
-## What do I need to work on today?
-
-
+  1. JavaScript - [Click here](javas-intro.md)
+  1. Computer Architecture - [Click here](computerarch.md)
 
 
 ## Make sure to check out [my profile](https://github.com/Mattpet26)
