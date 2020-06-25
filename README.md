@@ -14,6 +14,7 @@
   1. Designing with CSS - [Click here](cssdesign.md)
   1. JavaScript - [Click here](javas-intro.md)
   1. Computer Architecture - [Click here](computerarch.md)
+  1. Programming JS - [Click here](programjs.md)
 
 
 ## Make sure to check out [my profile](https://github.com/Mattpet26)
