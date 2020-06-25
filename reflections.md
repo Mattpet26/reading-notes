@@ -10,6 +10,33 @@
 - Push, this action takes the work that you did and uploads it to GitHub.
     - When doing this it is important to ONLY edit the file with GitHub or Git. **NEVER** both, the file merging will cause errors.
 
+
+- Concatination
+    var user = prompt("What is your name?")
+    confirm('Welcome ' + user)
+
+
+- = Assignment operator (var dog = false) dog now = false
+- == Comparison operator ('21' == 21) //true
+- === '21' === 21 //false
+
+
+'21' - is a string
+21 - intiger
+False / True - Boolean
+
+
+
+
+parseInt('21' === 21) //true
+    - parseInt makes the string a number
+
+prompt() will always return a string. ParseInt will help revert it back to a number.
+
+
+
+
+
 Commands | What does this command do?
 ---------|-------
 touch| Adds a new directory.
