@@ -1,6 +1,6 @@
-### Hello, I'm Matthew! I'm originally from Wisconsin. I separated from the U.S Navy almost two years ago. I'm eager to learn more about coding and develop new skills!
+### Hello, I'm Matthew! I'm originally from Wisconsin. I separated from the U.S Navy almost two years ago in August of 2018. I'm eager to learn more about coding and develop new skills!
 
-# My Learning Journal
+# My Learning Journal, Code 201.
   
 - I think my webpage is having problems? I keep running into issues with not being able to view my links and work. However everyone else can?
 - The mighty 404 error strikes again.
@@ -16,6 +16,8 @@
   1. Computer Architecture - [Click here](computerarch.md)
   1. Programming JS - [Click here](programjs.md)
 
+## Table of contents, week 2
+  1. Class 01 [Click Here](Class-01.md)
 
 ## Make sure to check out [my profile](https://github.com/Mattpet26)
 
