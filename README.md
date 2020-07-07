@@ -18,6 +18,7 @@
 
 ## Table of contents, week 2
   1. Class 01 [Click Here](Class-01.md)
+  1. Class 02 [Click here](Class-02.md)
 
 ## Make sure to check out [my profile](https://github.com/Mattpet26)
 
