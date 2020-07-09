@@ -20,6 +20,7 @@
   1. Class 01 [Click Here](Class-01.md)
   1. Class 02 [Click here](Class-02.md)
   1. Class 03 [Click here](Class-03.md)
+  1. Class 04 [Click here](Class-04.md)
 
 ## Make sure to check out [my profile](https://github.com/Mattpet26)
 
