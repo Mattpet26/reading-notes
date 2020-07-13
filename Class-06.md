@@ -35,8 +35,26 @@
 - }
 - obj2.talk();
 
+# Changing object values
 
+var x = 2;
+console.log(x);
+x = 3;
+console.log(x); // value is now 3
 
+## This
+
+- This refers to the local var, which only works as long as we are within that var.
+
+var scooby = {
+  name : 'Scooby';
+  favSnack : 'Scooby-snack',
+  color : 'brown',
+  intro : Function(){
+    console.log('I am ' + **this**.name + 'can I have a ' + **this**.favSnack + '?')
+  }
+}
+scooby.intro();
 
 
 
