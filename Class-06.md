@@ -25,12 +25,12 @@
 
 - Methods are functions that live in objects.
 
-- To call a method, we must call the function name
+- To call a method, we must call the variable name with the function key. So obj2.talk
 
 - var obj2 = {
   - name : 'Kayne',
   - talk : function(){
-    console.log('Bark, Bark');
+    - console.log('Bark, Bark');
   - }
 - }
 - obj2.talk();
