@@ -22,6 +22,9 @@
   1. Class 03 [Click here](Class-03.md)
   1. Class 04 [Click here](Class-04.md)
 
+## Table of contents, week3
+  1. Class 06[Click here](Class-06.md)
+
 ## Make sure to check out [my profile](https://github.com/Mattpet26)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

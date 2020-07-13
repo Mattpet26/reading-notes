@@ -10,10 +10,32 @@
 - Each html element is in its own box. 
 
 # Functions, Methods and Objects
-- Functions group a series of statements together to complete a task.
+- The purpose of a function is to define a code block for LATER use.
 - First we must delcare a function : Function potato()
 - Next we must call the function, placing that function after the last curly braces.
-- Local Variables vs Global Variables.
+- Global variable definitions
+- Function definitions
+- Function calls
+
+function functionNamePotato(){
+  //here is where code goes
+}
+function must be called here
+
+- If information is entered into the parameter, they are now declared variables.
+  - function sayHello(x, y , apple){
+
+  }
+- var x;
+- var y;
+- var apple;
+
+now when we call the function with info, it has a value.
+
+sayHello('anything', 'potato', 'dog')
+- var anything = 'x'
+- var potato = 'y'
+- var dog = 'apple'
 
 # Pair Programming
 - This is when two developers collaborate on a project together. This requires a **driver** and a **navigator**
