@@ -23,7 +23,8 @@
   1. Class 04 [Click here](Class-04.md)
 
 ## Table of contents, week3
-  1. Class 06[Click here](Class-06.md)
+  1. Class 06 [Click here](Class-06.md)
+  1. Class 07 [Click here](Class-07.md)
 
 ## Make sure to check out [my profile](https://github.com/Mattpet26)
 
