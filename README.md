@@ -25,6 +25,7 @@
 ## Table of contents, week3
   1. Class 06 [Click here](Class-06.md)
   1. Class 07 [Click here](Class-07.md)
+  1. Class 08 [Click here](Class-08.md)
 
 ## Make sure to check out [my profile](https://github.com/Mattpet26)
 
