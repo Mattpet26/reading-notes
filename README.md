@@ -27,6 +27,9 @@
   1. Class 07 [Click here](Class-07.md)
   1. Class 08 [Click here](Class-08.md)
 
+## Code 301 notes
+  1. Class 01 [Click here]
+
 ## Make sure to check out [my profile](https://github.com/Mattpet26)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
